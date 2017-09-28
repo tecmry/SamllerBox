@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:id="@+id/brgin_Ll"
+    android:background="@drawable/background"
+    android:layout_height="match_parent">
+<fight.tecmry.com.battlegroud.View.SearchView
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_width="match_parent"
+    android:layout_marginTop="250dp"
+    android:id="@+id/begin_sv"
+    android:layout_height="50dp">
+</fight.tecmry.com.battlegroud.View.SearchView>
+</LinearLayout>
